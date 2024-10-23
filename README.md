@@ -2,7 +2,7 @@
 
 Projekt-Template für 3050 WID
 
-Um mit der Vorlage zu Weiterzuarbeiten ist zwingend Node.js auf dem Rechner zu installieren.
+Um mit der Vorlage Weiterzuarbeiten ist zwingend Node.js auf dem Rechner zu installieren.
 
 ## Getting Started
 
