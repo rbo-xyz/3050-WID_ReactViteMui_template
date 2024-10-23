@@ -10,7 +10,7 @@ Um mit der Vorlage Weiterzuarbeiten ist zwingend Node.js auf dem Rechner zu inst
    ```
    git clone
    ```
-   Alternativ kann cuh mithilfe des Github Desktop das Repository geklont werden
+   Alternativ kann auch mithilfe des Github-Desktop das Repository geklont werden
 2. `node.js`-Module installieren:
    ```
    npm install
@@ -21,4 +21,4 @@ Um mit der Vorlage Weiterzuarbeiten ist zwingend Node.js auf dem Rechner zu inst
    npm run dev
    ```
 
-4. Auf den Angezeigten localhost--Link klicken und die Webseite öffnen
+4. Auf den angezeigten localhost-Link klicken und die Webseite öffnen
